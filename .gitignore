@@ -1,0 +1,6 @@
+venv/
+configs/
+configs/api_key.py 
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
